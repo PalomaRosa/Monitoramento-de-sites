@@ -1,3 +1,3 @@
-# Projetos-GO
+# Projeto de monitoramento de site - Linguagem GO
 
-Aqui compartilharei alguns projetos que irei desenvolver no processo de desenvolvimento da linguagem de programação GO. ✨💻
+Projeto desenvolvido para realizar o monitamento do status de sites, registro e impressão de logs na linguagem de programação GO. ✨💻
